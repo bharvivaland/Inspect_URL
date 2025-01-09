@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://www.google.com",
+    "isValid": true,
+    "timestamp": "2025-01-09T08:46:11.558Z"
+  },
+  {
+    "url": "https://www.googlecom",
+    "isValid": true,
+    "timestamp": "2025-01-09T08:46:25.012Z"
+  },
+  {
+    "url": "https://pranav",
+    "isValid": false,
+    "timestamp": "2025-01-09T08:46:38.228Z"
+  },
+  {
+    "url": "https://bharvi.com",
+    "isValid": true,
+    "timestamp": "2025-01-09T08:47:08.017Z"
+  },
+  {
+    "url": "https://bharvicom",
+    "isValid": false,
+    "timestamp": "2025-01-09T08:47:12.897Z"
+  },
+  {
+    "url": "https://www.google.com",
+    "isValid": true,
+    "timestamp": "2025-01-09T08:48:56.277Z"
+  }
+]
